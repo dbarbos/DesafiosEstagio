@@ -13,12 +13,14 @@ https://github.com/dbarbos/DesafioHackerString
 # Codigo com problema
 https://github.com/dbarbos/DesafioCodigoComProblema
 
-
 # Repita a String
 https://github.com/dbarbos/DesafioRepitaAString
 
 # Desafio Fibonacci
 https://github.com/leodegeus7/DesafioFibonacci
+
+# Desafio Lógica
+https://github.com/leodegeus7/DesafioLogica
 
 
 Resolva estes desafios, clonando os repositórios e subindo as soluções conforme as instruções de cada um.
