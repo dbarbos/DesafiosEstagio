@@ -2,8 +2,8 @@
 Uma coleção de desafios para seleção de estagiários.
 
    - Tente resolver o maior número de desafios possível;
-   - Nem é necessário criar projetos inteiros para resolver os problemas, apenas poste a solução e se possível uma breve descrição da sua solução;
-   - Caso tenha dificuldades em utilizar o Github, resolva os desafios localmente e traga as soluções na entrevista;
+   - Não é necessário criar projetos inteiros para resolver os problemas, apenas poste a solução e se possível uma breve descrição da sua solução;
+   - Caso tenha dificuldades em utilizar o Github, resolva os desafios localmente e traga as soluções na entrevista;
 
 Para esta seleção disponibilizamos os seguintes desafios:
 
