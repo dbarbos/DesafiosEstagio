@@ -16,13 +16,13 @@ https://github.com/dbarbos/DesafioCodigoComProblema
 # Repita a String
 https://github.com/dbarbos/DesafioRepitaAString
 
-# Desafio Fibonacci
+# Fibonacci
 https://github.com/leodegeus7/DesafioFibonacci
 
-# Desafio Lógica
+# Lógica Básica
 https://github.com/leodegeus7/DesafioLogica
 
-# Desafio Conversor PHP
+# Conversor PHP
 https://github.com/leodegeus7/DesafioConversorPHP
 
 Resolva estes desafios, clonando os repositórios e subindo as soluções conforme as instruções de cada um.
