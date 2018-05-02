@@ -22,6 +22,8 @@ https://github.com/leodegeus7/DesafioFibonacci
 # Desafio Lógica
 https://github.com/leodegeus7/DesafioLogica
 
+# Desafio Conversor 
+https://github.com/leodegeus7/DesafioPHP
 
 Resolva estes desafios, clonando os repositórios e subindo as soluções conforme as instruções de cada um.
 
